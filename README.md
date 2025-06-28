@@ -1,3 +1,6 @@
+# 💫 About Me:
+👋 Hi, I'm Purba Mitra — a passionate and detail-oriented Data Analyst from West Bengal, India.<br><br>💡 I specialize in transforming complex datasets into meaningful insights using Power BI, SQL, and Excel.<br>📊 I’ve built interactive dashboards that improved healthcare efficiency, optimized call center performance, and uncovered sales trends.<br>🔍 I enjoy diving deep into data to drive data-informed decisions and business growth.<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/purba-mitra/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/_PurbaMitra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chatwithpurba@gmail.com) 
